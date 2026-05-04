@@ -1,3 +1,5 @@
+¡print("Hola desde interfaz")
+
 print("Proyecto logica")
 
 def interfaz():

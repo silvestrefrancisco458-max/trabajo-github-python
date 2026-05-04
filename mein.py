@@ -1,6 +1,4 @@
-¡print("Hola desde interfaz")
-
-print("Proyecto logica")
+print("Proyecto GitHub")
 
 def interfaz():
     print("Interfaz del programa")
